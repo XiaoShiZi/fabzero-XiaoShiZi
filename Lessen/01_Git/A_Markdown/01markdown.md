@@ -3,7 +3,7 @@ sort: 1
 ---
 
 # Markdown Elements
-__**Toevoegingen door XiaoShiZi 小獅子**__
+__*Toevoegingen door XiaoShiZi 小獅子*__
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
