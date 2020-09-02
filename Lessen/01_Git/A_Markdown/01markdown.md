@@ -5,8 +5,9 @@ sort: 1
 # Markdown Elements
 __*Toevoegingen door XiaoShiZi 小獅子*__ 
 
-![Octocat](https://avatars2.githubusercontent.com/u/2847475?s=400&u=b7ffa32d059f8e1d052c8fb0ad3df3d4b454c07f&v=4)
+![XiaoShiZi 小獅子](https://avatars2.githubusercontent.com/u/2847475?s=400&u=b7ffa32d059f8e1d052c8fb0ad3df3d4b454c07f&v=4)
 
+![XiaoShiZi小獅子]({{ site.baseurl }}/assets/小獅子.png)
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
