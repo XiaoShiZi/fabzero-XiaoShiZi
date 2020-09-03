@@ -12,10 +12,12 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 ???
 I am.😜
 
-[Dutch] Xiao Shi Zi 小獅子
-Fenomeen.
+[Dutch] Xiao Shi Zi 小獅子. Fenomeen.
+
 Kenisbasis in volgende 
-Matrijzenbouw (werk gerelateerd), 3D CADCAM, mechanica, elektriciteit/electronica (basis), programmatie, design, 
+
+Matrijzenbouw (werk gerelateerd), 3D CADCAM, mechanica, elektriciteit/electronica (basis), programmatie, design, ...
+
 En nog vele andere die aangevuld worden volgens gebruik.
 
 
