@@ -16,7 +16,7 @@ I am.😜
 
 Kenisbasis in volgende 
 
-Matrijzenbouw (werk gerelateerd), 3D CADCAM, mechanica, elektriciteit/electronica (basis), programmatie, design, ...
+Matrijzenbouw (werk gerelateerd), 3D CADCAM, mechanica, elektriciteit/electronica (basis), programmatie, functioneel design, ...
 
 En nog vele andere die aangevuld worden volgens gebruik.
 
