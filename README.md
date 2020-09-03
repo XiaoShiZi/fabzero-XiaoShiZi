@@ -1,4 +1,4 @@
-# FabZero Traject "STUDENT"
+# FabZero Traject "STUDENT __小獅子__"
 [![logo](https://ingegnomakerspace.github.io/inclusievekets/assets/images/logo.svg)][fabzero]
 
 Zie de site op [ingegno.github.io/fabzero-student-template](https://ingegno.github.io/fabzero-student-template/).
@@ -10,6 +10,16 @@ Template voor FabZero gebaseerd [jekyll-rtd-theme](https://github.com/rundocs/je
 ## Who am I?
 
 ???
+I am.😜
+
+[Dutch] Xiao Shi Zi 小獅子
+Fenomeen.
+Kenisbasis in volgende 
+Matrijzenbouw (werk gerelateerd), 3D CADCAM, mechanica, elektriciteit/electronica (basis), programmatie, design, 
+En nog vele andere die aangevuld worden volgens gebruik.
+
+
+
 
 ## The license
 The theme is available as open source under the terms of the MIT License. The content is Creatieve Commons, non-commercial.
