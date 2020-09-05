@@ -8,7 +8,9 @@ XiaoShiZi 小獅子
 
 "Thermostatische kraan" naar Wifi gestuurd brengen.
 
-Dit voor het uitschakelne van ruimten die niet altijd dienen mee opgewarmd te worden in de loop van de dag.
+Dit voor het uitschakelen van ruimten die niet altijd dienen mee opgewarmd te worden in de loop van de dag.
+
+Bevoorbeeld slaapkamers overdag Dicht, in de vooravond late opwarmen tot 16 graden en de living waar de thermostaat hangt s nachts laten afkoelen.
 
 Of zelfs het niet steeds verwarmen van de ruimte met de Thermostaat.
 
