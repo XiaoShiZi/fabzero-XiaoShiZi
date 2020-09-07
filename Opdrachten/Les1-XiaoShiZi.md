@@ -10,7 +10,7 @@ XiaoShiZi 小獅子
 
 # Project:
 
-"Thermostatische kraan" naar Wifi gestuurd brengen.
+**_"Thermostatische kraan"_** naar Wifi gestuurd brengen.
 
 
 
