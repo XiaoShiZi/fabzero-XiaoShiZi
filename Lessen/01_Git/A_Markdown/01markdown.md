@@ -9,7 +9,7 @@ __*Toevoegingen door XiaoShiZi 小獅子*__
 
 ![XiaoShiZi小獅子]({{site.baseurl}}/assets/XSZ.png)
 
-小獅子.png)Word niet herkend als filenaam. Conversie nazien Chinese characters naar Westers of instelling van Chinese charaters in filenaam.
+小獅子.png word niet herkend als filenaam. Conversie nazien Chinese characters naar Westers of instelling van Chinese charaters in filenaam.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
