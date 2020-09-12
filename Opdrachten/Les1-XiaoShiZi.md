@@ -26,7 +26,7 @@ Hierbij word er een ESP8266 (Geheugen capaciteit 1MB? uitbreidbaar naar 16MB...)
 
 Na korte uiteenzetting in Makerspace Ingegno te Drongen kwamen volgende bottlenecks nog naar boven.
 
-Eigen ontwerp van de kraan maken ipv aanschaffing van een programmerbare. 
+Eigen ontwerp van de kraan maken ipv aanschaffing van een programmeerbare. 
    -
 
 Protocol om aan te sturen zal via MQTT worden.
@@ -36,6 +36,26 @@ Server zal een RPi Zero W (19.90) worden met een 7"Touch Screen (+/- 75€ raspb
 Mogelijkheid verder uit te werken om via de gsm de temperatuurinstelling aan te passen (beveiliging e.d....)
 
 Indien programmabuffer op de esp8266 (12.04€) het toelaat kan er nog een EPaper op de kraan bijkomen om vanaf daar ook de temp in te stellen.
+
+## Problemen nog te voorzien van een mogelijke oplossing.
+
+Lijst [ Add MD hier for list]
+
+Aansturen van de motor mezt ESP8266 2 richtingen, Open/Dicht/Vorststand (led sensor met schijf genre muis met bal sensor)
+
+Opmeten temperatuur/vochtigheid in de kamer met terugkoppeling naar de hub.
+
+Hub 
+
+Aantal kranen esp8266 / uitlezingen DHT11 max mogelijk met een RPi
+
+Kamertemp
+
+Logging van de temperatuur gegevens voor aansturen tijd nodig op voorhand om ruimte op temperatuur te hebben op de ingestelde tijd.)
+
+Buitentemperatuur via website of uitlezen via ESP8266 en DHT11 in buiten centrale.
+
+
 
 ######(Prijzen op Gotron.be of Adafruit of desbetreffende site op 12/09/2020)
 
