@@ -31,11 +31,11 @@ Eigen ontwerp van de kraan maken ipv aanschaffing van een programmerbare.
 
 Protocol om aan te sturen zal via MQTT worden.
 
-Server zal een RPi Zero W (19.90) worden met een 7"Touch Screen (+/- 75€ raspberrystore.nl) of een EPaper (2" is reeds 35€ zonder touch, touch screen kan met overlay {6€} zoals https://www.adafruit.com/product/333 maar is out of stock) als scherm. (Op te lossen dringend :-)  
+Server zal een RPi Zero W (19.90) worden met een 7"Touch Screen (+/- 75€ raspberrystore.nl) of een EPaper (2" is reeds 35€ zonder touch, touch screen kan met overlay {6€} zoals product/333 maar is out of stock) als scherm. (Op te lossen dringend :-)  
 
 Mogelijkheid verder uit te werken om via de gsm de temperatuurinstelling aan te passen (beveiliging e.d....)
 
 Indien programmabuffer op de esp8266 (12.04€) het toelaat kan er nog een EPaper op de kraan bijkomen om vanaf daar ook de temp in te stellen.
 
-######(Prijzen op Gotron.be op 12/09/2020)
+######(Prijzen op Gotron.be of Adafruit of desbetreffende site op 12/09/2020)
 
