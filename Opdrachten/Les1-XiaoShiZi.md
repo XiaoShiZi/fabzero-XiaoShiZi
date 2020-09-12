@@ -31,7 +31,7 @@ Eigen ontwerp van de kraan maken ipv aanschaffing van een programmerbare.
 
 Protocol om aan te sturen zal via MQTT worden.
 
-Server zal een RPi Zero W (19.90) worden met een 7"Touch Screen (+/- 75€ raspberrystore.nl) of een EPaper (2" is reeds 35€ zonder touch, touch screen kan met overlay {6€} zoals product/333 maar is out of stock) als scherm. (Op te lossen dringend :-)  
+Server zal een RPi Zero W (19.90) worden met een 7"Touch Screen (+/- 75€ raspberrystore.nl) of een EPaper (2" is reeds product/3335 35€ zonder touch, touch screen kan met overlay {6€} zoals product/333 maar is out of stock) als scherm. (Op te lossen dringend :-)  
 
 Mogelijkheid verder uit te werken om via de gsm de temperatuurinstelling aan te passen (beveiliging e.d....)
 
