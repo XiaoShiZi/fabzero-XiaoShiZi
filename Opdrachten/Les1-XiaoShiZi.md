@@ -22,7 +22,7 @@ Of zelfs het niet steeds verwarmen van de ruimte met de Thermostaat.
 
 Er word vertrokken met een thermostatische kraan waarbij reeds een motor en sturing aanwezig zijn (toekomst volledig uit te bouwen kraan met herbruik van de metalen moer op een geprinte versie ABS of PETG of siliconemal en gieten in Zelaan hittebestedig, geen vervorming door warmte van de valve/klep)
 
-Hierbij word er een ESP8266 toegevoegd om de sturing via wifi mogelijk te maken.
+Hierbij word er een ESP8266 (Geheugen capaciteit 1MB? uitbreidbaar naar 16MB...) ) toegevoegd om de sturing via wifi mogelijk te maken.
 
 Na korte uiteenzetting in Makerspace Ingegno te Drongen kwamen volgende bottlenecks nog naar boven.
 
