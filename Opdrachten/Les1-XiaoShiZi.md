@@ -13,6 +13,11 @@ XiaoShiZi 小獅子
 **_"Thermostatische kraan"_** naar Wifi gestuurd brengen.
 
 
+Blijkbaar een hoog nodig kraantje...
+
+14/09/2020 werd de vraag gesteld in de make in Belgium fb groep.
+
+https://m.facebook.com/groups/1366008463484743?view=permalink&id=3301953146556922&ref=content_filter
 
 Dit voor het uitschakelen van ruimten die niet altijd dienen mee opgewarmd te worden in de loop van de dag.
 
