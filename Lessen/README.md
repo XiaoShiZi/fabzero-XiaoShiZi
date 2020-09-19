@@ -12,6 +12,12 @@ Opstarten, aanmaken, opvolgen van Github pagina met documenten opgemaakt met Mar
 
 Overlopen van Materialen/machines/ontwerptechnieken
 
+## Les 3 Lasersnijden
+
+Gebruik Inkscape, FlatFab, 123D-Make (slicer) (Mogelijkheid van FreeCad aan het uitpluizen.)
+
+Bij gebruik FreeCad is er een Add-on beschikbaar voor het lasercutten. handig en eenvoudig te installeren.
+
 
 
 {% include list.liquid all=true %}
