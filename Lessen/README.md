@@ -20,6 +20,10 @@ Bij gebruik FreeCad is er een Add-on beschikbaar voor het lasercutten. handig en
 
 [![ScreenShotInkscapeStempel](https://github.com/XiaoShiZi/fabzero-XiaoShiZi--/blob/master/assets/ScreenshotStempel.svg)]
 
+## Les 4 3D Printen
 
+Overzicht wat 3d printen is met kort overzicht TinkerCad, OnShape en Cura.
+
+Opdracht: Boom slicen, Ontwerp een dopje voor op een potlood met 3d Printer als realisator.
 
 {% include list.liquid all=true %}
