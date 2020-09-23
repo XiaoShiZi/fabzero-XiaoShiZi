@@ -26,4 +26,8 @@ Overzicht wat 3d printen is met kort overzicht TinkerCad, OnShape en Cura.
 
 Opdracht: Boom slicen, Ontwerp een dopje voor op een potlood met 3d Printer als realisator.
 
+[![ScreenShotFreeCADGear](https://github.com/XiaoShiZi/fabzero-XiaoShiZi--/blob/master/assets/FreeCadGear.jpg)]
+
+[![ScreenShotFreeCadF360](https://github.com/XiaoShiZi/fabzero-XiaoShiZi--/blob/master/assets/F360FreeCad.jpg)]
+
 {% include list.liquid all=true %}
