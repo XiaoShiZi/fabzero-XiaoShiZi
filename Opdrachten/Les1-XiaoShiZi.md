@@ -21,7 +21,7 @@ https://m.facebook.com/groups/1366008463484743?view=permalink&id=330195314655692
 
 Dit voor het uitschakelen van ruimten die niet altijd dienen mee opgewarmd te worden in de loop van de dag.
 
-Bevoorbeeld slaapkamers overdag Dicht, in de vooravond late opwarmen tot 16 graden en de living waar de thermostaat hangt s nachts laten afkoelen.
+Bevoorbeeld slaapkamers overdag dicht, in de vooravond laten opwarmen tot 16 graden en de living waar de thermostaat hangt s nachts laten afkoelen.
 
 Of zelfs het niet steeds verwarmen van de ruimte met de Thermostaat.
 
@@ -42,17 +42,19 @@ Mogelijkheid verder uit te werken om via de gsm de temperatuurinstelling aan te 
 
 Indien programmabuffer op de esp8266 (12.04€) het toelaat kan er nog een EPaper op de kraan bijkomen om vanaf daar ook de temp in te stellen.
 
+Wemos aangeraden. Nog te bekijken naar keuze scherm.
+
 ## Problemen nog te voorzien van een mogelijke oplossing.
 
 Lijst [ Add MD hier for list]
 
-Aansturen van de motor mezt ESP8266 2 richtingen, Open/Dicht/Vorststand (led sensor met schijf genre muis met bal sensor)
+Aansturen van de motor met ESP8266 2 richtingen, Open/Dicht/Vorststand (led sensor met schijf genre muis met bal sensor X/Y)
 
-Opmeten temperatuur/vochtigheid in de kamer met terugkoppeling naar de hub.
+Opmeten temperatuur/vochtigheid in de kamer/buitentemp/Open venster met terugkoppeling naar de hub.
 
 Hub 
 
-Aantal kranen esp8266 / uitlezingen DHT11 max mogelijk met een RPi
+Aantal kranen esp8266 / uitlezingen DHT11 max mogelijk met een RPi?
 
 Kamertemp
 
