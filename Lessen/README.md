@@ -18,7 +18,7 @@ Gebruik Inkscape, FlatFab, 123D-Make (slicer) (Mogelijkheid van FreeCad aan het 
 
 Bij gebruik FreeCad is er een Add-on beschikbaar voor het lasercutten. handig en eenvoudig te installeren.
 
-![ScreenShotInkscapeStempel](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/ScreenshotStempel.svg)
+![ScreenShotInkscapeStempel]({{site.baseurl}}/assets/ScreenshotStempel.svg)
 
 ## Les 4 3D Printen
 
