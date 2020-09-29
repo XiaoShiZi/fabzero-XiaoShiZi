@@ -10,7 +10,7 @@ Opstarten, aanmaken, opvolgen van Github pagina met documenten opgemaakt met Mar
 
 Let erop dat er een Github Site aangemaakt word. 
 
-Vul weekelijks de vorderingen aan. <!-- Hier kunnen opmerkingen staan. -->
+Vul weekelijks de vorderingen aan. <!--Hier kunnen opmerkingen staan.-->
 
 ## Les 2 Materialen en Design
 
