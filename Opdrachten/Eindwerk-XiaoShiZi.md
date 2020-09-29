@@ -4,6 +4,8 @@ XiaoShiZi 小獅子
 
 ![XiaoShiZi小獅子]({{site.baseurl}}/assets/小獅子.png)
 
+![XiaoShiZi小獅子]({{site.baseurl}}/../../assets/小獅子.png)
+
 ```note
  _Dit project word gedocumenteerd op Github met MarkDown documentatie._
 ```
