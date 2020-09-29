@@ -48,6 +48,12 @@ Wemos aangeraden. Nog te bekijken naar keuze scherm.
 
 Bijkomend zorgekindje is de gebruikstemperatuur van de ePaper. (0°-40° gezien de temperatuur van de verwarming +/-65° bedraagd zal dit moeten behandeld worden)
 
+Afmetingen van het scherm zo snel mogelijk te bepalen voor tijdig binnen te krijgen.
+
+Afmetingen beschikbaar van 1.54" tot 9", flexibel of vast, rond of rechthoek...
+
+WaveShare, nu ttgo erbij, t bos word groter, keuze moeilijker... touch eInk of met draaiknop... 
+
 ## Problemen nog te voorzien van een mogelijke oplossing.
 
 Lijst [ Add MD hier for list]
