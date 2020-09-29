@@ -6,7 +6,11 @@ sort: 2
 
 ## Les 1 Git
 
-Opstarten, aanmaken, opvolgen van Github pagina met documenten opgemaakt met MarkDown
+Opstarten, aanmaken, opvolgen van Github pagina met documenten opgemaakt met MarkDown.
+
+Let erop dat er een Github Site aangemaakt word. 
+
+Vul weekelijks de vorderingen aan.
 
 ## Les 2 Materialen en Design
 
