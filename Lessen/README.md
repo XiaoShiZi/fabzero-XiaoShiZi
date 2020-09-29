@@ -34,4 +34,11 @@ Opdracht: Boom slicen, Ontwerp een dopje voor op een potlood met 3d Printer als 
 
 ![ScreenShotFreeCadF360]({{site.baseurl}}/../../assets/F360FreeCad.jpg)
 
+## Les Fusion360 bis
+
+Gebruik Fusion360 in ontwerp.
+
+Aangepaste shortkey voor Azerty klavier. ![ShortcutFusion360Key]({{site.baseurl}}/../../assets/F360AzertyShortcut.png)
+
+
 {% include list.liquid all=true %}
