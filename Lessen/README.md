@@ -22,7 +22,7 @@ Gebruik Inkscape, FlatFab, 123D-Make (slicer) (Mogelijkheid van FreeCad aan het 
 
 Bij gebruik FreeCad is er een Add-on beschikbaar voor het lasercutten. handig en eenvoudig te installeren.
 
-![ScreenShotInkscapeStempel]({{site.baseurl}}/assets/ScreenshotStempel.svg)
+![ScreenShotInkscapeStempel]({{site.baseurl}}/../../assets/ScreenshotStempel.svg)
 
 ## Les 4 3D Printen
 
@@ -30,8 +30,8 @@ Overzicht wat 3d printen is met kort overzicht TinkerCad, OnShape en Cura.
 
 Opdracht: Boom slicen, Ontwerp een dopje voor op een potlood met 3d Printer als realisator.
 
-![ScreenShotFreeCADGear]({{site.baseurl}}/assets/FreeCadGear.jpg)
+![ScreenShotFreeCADGear]({{site.baseurl}}/../../assets/FreeCadGear.jpg)
 
-![ScreenShotFreeCadF360]({{site.baseurl}}/assets/F360FreeCad.jpg)
+![ScreenShotFreeCadF360]({{site.baseurl}}/../../assets/F360FreeCad.jpg)
 
 {% include list.liquid all=true %}
