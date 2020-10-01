@@ -40,5 +40,13 @@ Gebruik Fusion360 in ontwerp.
 
 Aangepaste shortkey voor Azerty klavier. ![ShortcutFusion360Key]({{site.baseurl}}/../../assets/F360AzertyShortcut.png)
 
+## Les 5 Electronica Basis
+
+Wetten en waarden, overzicht van onderdelen zoals weerstand, Condensator, Spoel, Mosfet,  diode, spanningsregelaar, LED, Arduino.
+
+Ook de interesante site voor simulatie/berekenen/experimenteren zonder rook kwam aan het licht. falstad.com Zeker de moeite om eens in rond te snuisteren en testen uit te voeren. Handig oa met de geluids simmulatie die ook op de luidsprekers komt. ![(falstad.com)(http://falstad.com)]
+
+
+
 
 {% include list.liquid all=true %}
