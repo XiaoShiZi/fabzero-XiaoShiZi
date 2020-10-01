@@ -46,7 +46,7 @@ Wetten en waarden, overzicht van onderdelen zoals weerstand, Condensator, Spoel,
 
 Ook de interesante site voor simulatie/berekenen/experimenteren zonder rook kwam aan het licht. falstad.com Zeker de moeite om eens in rond te snuisteren en testen uit te voeren. Handig oa met de geluids simmulatie die ook op de luidsprekers komt. ![(falstad.com)(http://falstad.com)]
 
-![(Schemas simuleren)(http://falstad.com/circuit/)]
+[Schemas simuleren](http://falstad.com/circuit/)
 
 
 
