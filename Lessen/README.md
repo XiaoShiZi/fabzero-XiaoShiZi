@@ -58,7 +58,7 @@ Teken een Koffiemok.
 
 Teken een object dat op uw bureau ligt. (Lat...)
 
-OnShape Text... ![Text positie aanpassen met constraints]({{site.baseurl}}/../../assets/LatOnShapeText.mp4)
+OnShape Text... ![Text positie aanpassen met constraints](https://youtu.be/0lor_u0hRC0)
 
 
 
