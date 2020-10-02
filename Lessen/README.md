@@ -48,6 +48,17 @@ Ook de interesante site voor simulatie/berekenen/experimenteren zonder rook kwam
 
 [Schemas simuleren](http://falstad.com/circuit/)
 
+## Les OnShape bis
+
+Gebruik OnShape in ontwerp.
+
+Basis uitleg ivm de symbolen, hoe men een vorm opbouwd in OnShape, oefeningen.
+
+Teken een Koffiemok.
+
+Teken een object dat op uw bureau ligt. (Lat...)
+
+OnShape Text... ({{site.baseurl}}/../../assets/LatOnShapeText.mp4)
 
 
 
