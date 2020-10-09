@@ -60,6 +60,48 @@ Teken een object dat op uw bureau ligt. (Lat...)
 
 OnShape Text... ![Text positie aanpassen met constraints](https://youtu.be/0lor_u0hRC0)
 
+## Les 6a PCB's ontwerpen (KiCad)
+
+Inleidend overzicht hoe de noodzaak ontstond om van "zwevende" schakelingen naar breadbord naar printplaat te komen. 
+
+Waarbij nu handig gebruik word gemaakt van de computer om een pcb te ontwerpen. 
+
+Bepalende factoren voor een printplaat zijn o.a. dikte van de koperplaat, dikker meer stroom.
+
+Frezen voordeel HF, kortere freestijd, minder etsen door enkel de "baantjes" te frezen en GND vlak te maken. Nadeel bij gebruik glasvezel plaat spaantjes slijten de geleidingen, spanen kunnen in het moederbord komen te zitten. Voordeel van de kartonnen versie van PCB basisbord.
+
+Nabehandeling van de printplaat is nodig om deze corosiebestendig te maken. dmv vernis, lak, silicone.
+
+Tip bij het belichten en etsen is wrijven, de blubber/slijm laag verwijderen zodat sneller geetst kan worden. Gebruik steeds handschoenen ter bescherming.
+
+Fe3Chloride, Waterstofchloride en zoutzuur, ... keukenmiddelen zoals azijn kan ook maar duurt langer.
+
+Solder mask, Vertinnen, Silkscreen. Extra lagen kunnen aangebracht worden.
+
+PCBSShopper.com vergelijk van de verschillende producenten naar gelang het ontwerp. 10x10 is goedkoopste oplossing als de print binnen die afmetinge valt.
+
+E-Textile. 
+
+Zeefdruk Elad
+
+Ontwerp een printplaat voor het opnaaien van de batterij met schakelaar.
+
+Annotate nummers van componenten voor naar footprint te gaan.
+
+3d modellen zijn beschikbaar op 3d content central. 
+
+GrabCad heeft ook verschillende 3d modellen van componenten.
+
+FreeCad kan men gebruiken voor zelf een model te tekenen en het 3d model te gebruiken met KiCad.
+
+Thx Bruce voor deze uiteeenzetting.
+
+Nog toe te voegen enkele afbeeldingen.
+
+KiCad liep vast bij mijn installatie gezien er nog een oudere versie ooit op de laptop stond. 
+
+Uninstall van Kicad met wissen van de User/AppData/Roaming/KiCad/* en Opkuis Regestry windows Kicad melding zoeken en wissen bracht na herinstallatie soelaas.
+
 
 
 {% include list.liquid all=true %}
