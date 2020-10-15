@@ -102,6 +102,26 @@ KiCad liep vast bij mijn installatie gezien er nog een oudere versie ooit op de 
 
 Uninstall van Kicad met wissen van de User/AppData/Roaming/KiCad/* en Opkuis Regestry windows Kicad melding zoeken en wissen bracht na herinstallatie soelaas.
 
+## Les MIT App Inventor bis
+
+Basis uiteenzetting Android aplicatie maken met App Inventor.
+
+Instellen op Android device, alsook op de computer voor het gebruik van het cloudbased AppInventor programma.
+
+Eerste oefening. Maak een tekst naar spraak app. Met enkele extra features.
+
+Tweede oefening. Maak een teken app. Bij schudden scherm terug naar beginfase. Neem foto als achtergrond. Voeg schuifbalk toe om teken dikte. Voeg keuze vlak toe voor de kleur.
+
+Deze manier om een App te ontwikkelen werkt volgens het Scratch blok principe. (of wie was er eerst met die blok programmering ;-) )
+
+Visueel opbouwen van het scherm met daarna blokken om de functionaliteit van de app vast te leggen.
+
+Wat niet behandeld werd is hoe men dan de tekening kan opslaan op de gsm onder bv. Afbeeldingen map. 
+
+Bij opzoeking stuit ik op beperkingen inzake Android 10 en 11 om een afbeelding op te slaan op het android device.
+
+Nog verder uit te zoeken.
+
 
 
 {% include list.liquid all=true %}
