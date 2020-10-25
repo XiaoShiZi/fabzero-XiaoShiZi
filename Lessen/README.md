@@ -102,7 +102,7 @@ KiCad liep vast bij mijn installatie gezien er nog een oudere versie ooit op de 
 
 Uninstall van Kicad met wissen van de User/AppData/Roaming/KiCad/* en Opkuis Regestry windows Kicad melding zoeken en wissen bracht na herinstallatie soelaas.
 
-## Les MIT App Inventor bis
+## (7) Les MIT App Inventor bis
 
 Basis uiteenzetting Android aplicatie maken met App Inventor.
 
@@ -138,7 +138,46 @@ Best om deze dan ook op te slaan met een regel //fotoApp/naam.jpg zodat deze in 
 
 
 
-## Les 
+## Les Vacum vorming en mallen maken.
+
+Overzicht van wat mallen en thermoforming inhoud, industrieel alsook de diy toestellen kwamen aan bod.
+
+Pijnpunten bij vacumvormen en hoe op te vangen.
+
+Bediening van het toestel te Ingegno.
+
+De letters R & Q geformd voor afgieting te maken voor Ramses en Quillan. De S moet ik nog bijmaken.
+
+## 8 Les Digitaal Borduren & smart textile I
+
+Uitgebreide uiteenzetting inzake de evolutie van textiel, als warmte en bescherming naar smart met uitlees en exo functionaliteiten.
+
+E-textile functionaliteit inbouwen in kleding, waarop dient men te letten, hoe kan men verbinden, wasbaarheid/dragen/slijtvastheid?
+
+Uitleg en voorbeeld hoe men met InkScape uitbreiding InkStitch een vectortekening kan omzetten naar stik of steek commando's voor een borduurmachine.
+
+Uitleg PE Design 11. Deze kan ter plaatse in Drongen gebruikt worden met de sleutel van het programma. Werkt veel sneller kwa instellingen, standaard ingebouwde functies etc.
+
+## Les 6 Bis KiCad PCB design.
+
+Overzicht en uitwerking pcb tekenen en ontwerpen met KiCad vanuit het Mam.
+
+## Les 9 Digitaal Borduren & smart textile II
+
+Praktijkles, hoe men de digitale file uitwerkt op de borduurmachine.
+
+Aandachtspunten: strak opgespannen stof, eventueel dragende onderstof, draad is +/-0.4mm diameter, steekgrote, automatisch snijden van draad, inrijgen nieuwe kleur, max snelheid 1000 steken/min voor inschatting van tijd, ...
+
+PE design 11 installatie voor later gebruik in Ingegno zelf. Liep even stroef, herstarte automatisch de laptop bij installatie, duurde lang om te installeren.
+
+Gelukkig file voorbereid in InkScape/inkStitch waardoor na het zien stikken enkele wijzigingen anagebracht werden aan inkstich zoals de volgorde en het aiutomatisch snijden mbv de uitbreiding commands toe te voegen.
+
+Eerste resultaat vanuit InkStitch laat zien dat dit wel mogelijkheden heeft maar meer voorbereiding vergt tov PE design.
+
+HEt ontwerp kan men vanuit InkScape met .emf bestand opslaan voor PE Design.
+
+Fotootje Patch XiaoShiZi toevoegen.
+
 
 
 
