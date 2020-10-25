@@ -122,6 +122,24 @@ Bij opzoeking stuit ik op beperkingen inzake Android 10 en 11 om een afbeelding 
 
 Nog verder uit te zoeken.
 
+Er werd verwezen naar /sdcard/AppInventor/data Hoewel er geen sdcard in mijn gsm geplaatst is.
+
+Hierdoor afgeleid niet direct gevonden waar men dan effectief opslaat.
+
+Na invoegen van een sdcard werden de gegevens alsnog niet gevonden op de SDcard.
+
+Dit blijkt eigenlijk nog niet te voldoen aan de regels van Google gezien er toch op het toestel zelf word opgeslagen.
+
+Dit onder de map van *iInterne gedeelde opslag> Android> data> edu.mit.appinventor.aicompanion3> files>*i
+
+Swat, we kunnen onze aangepaste afbeelding nu ook nadien terugvinden.
+
+Best om deze dan ook op te slaan met een regel //fotoApp/naam.jpg zodat deze in een map volgens de app komen.
+
+
+
+## Les 
+
 
 
 {% include list.liquid all=true %}
