@@ -137,7 +137,7 @@ Ball Switch test:
 
 Test om de gevoeligheid en positie van het contact te bepalen. Opemrking gebruik een usb data kabel die wat bewegingsruimte op het breadbord toelaat.
 
-Link to ino file ![BallSwitchTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
+Link to ino file [BallSwitchTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
 
 Output van de seriële monitor:
 
