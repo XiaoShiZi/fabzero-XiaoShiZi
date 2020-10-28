@@ -53,3 +53,115 @@ Buitentemperatuur via website of uitlezen via ESP8266 en DHT11 in buiten central
 
 Verder met het nieuwe project.
 
+**_"O zandLopEr Digitaal"_** 
+
+Reden voor een OLED digitale zandloper is de volgende:
+
+De kinderen spelen graag eens een computergame, om hun afwisselend te laten spelen kan men de timer van de gsm gebruiken.
+
+De jongsten heeft daar nog wat sturing bij nodig.
+
+Vandaar het idee om een digitale versie van een timer te maken.
+
+Dit met gebruik van een OLED scherm (ooit besteld), een buzzer, een ballswitch sensor (afkomstig uit zo'n 37kit set) en een arduino nano every.
+
+Behuizing vermoed ik om dit in een mintbox te plaatsen of nog een ontwerp uit te tekenen voor lasercutter of 3d print. 
+
+Uit een assist to fellow student geleerd dat het steeds noodzakelijk is om de pinout goed op te zoeken en niet zomaar overnemen wat op het scherm in sommige tutorials aan bod komt. 
+
+Dus hierbij de pinouts van de onderdelen.
+
+Pinout schema van de Arduino Nano Every :
+
+https://content.arduino.cc/assets/Pinout-NANOevery_latest.png
+
+Pinout van het scherm (aflezen op de pcb zelf)
+
+Pinout van de Ball switch (aflezen op de pcb zelf)
+
+Pinout van de Passive Buzzer (aflezen op de pcb zelf)
+
+KiCad Schema uitgetekend met aanmaak van de scherm schema symbolen alsook de switch en buzzer.
+
+[Schema KiCad] Toevoegen van een PNG... In KiCad de optie exporteren drawing to clipboard, binnen brengen in Gimp heeft een transparant lege zone...
+
+OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindleijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de pritn to pdf optie gebruiken.
+
+
+
+Eerste struikelblok ;-)  
+
+Het scherm ooit besteld via ? Hoe vind ik terug welk scherm dit is. Terug gevonden dat dit op Wish was. 
+
+Geen verdere uitleg van welke library of hoe men dit aansluit, huidige versie op Wish is die met de 4 pins aansluiting... 
+
+Het OLED scherm heeft 6 aansluitpinnen genoemd als GND VCC SCL SDA RST D/C.
+
+Na lang zoeken dan toch op de juiste aansturing van deze 6 connectoren gekomen. 
+
+Scherm kunnen identificieren als een 0.96" OLED 128x64 SPI blue scherm.
+
+Op naar de connecties en de library voor de arduino.
+
+Verschillende opties voor de library om het scherm aan te sturen. Adafruit/U8g2/...
+
+Hoe bepaald men hier de keuze?
+
+Connecties scherm zijn als volgt: 
+
+SCHERM/ pin nummer op Nano Every = D/C/12 - RST/11 - SDA/14 - SCL/13 - VCC/16 - GND/29
+
+Connecties Buzzer:
+
+Buzzer pin/Nano Every = GND/4 - VCC/16 - Signal/6
+
+Connecties Ball Switch:
+
+Ball Switch / Nano Every = Signal/5 - VCC/16 - GND/4
+
+Elk onderdeel appart getest om zeker te zijn dat deze werken en aan te sturen zijn met de Nano Every
+
+Buzzer test 
+
+/*
+ * Arduino Nano Every O zandLopEr Digitaal 
+ *         Eerste versie Oled, Ballswitch en Passive Buzzer.
+ *         
+ * By Xiao Shi Zi Yi 小獅子一
+ * 
+ * Geluid door Buzzer aangesloten op pin D3(pin6 van het board) 
+ * 
+ * Ball switch aangesloten op pin D2(pin5)
+ * 
+ * Library: Oled 6 pins 2 colours, u8g2 by Oliver (ipv u8glib)
+ * Pins on the Nano Every
+ * 
+ * Library 
+ * 
+ * Test van de Buzzer met de hoorbare frequenties zonder veel ruis door aanpassing van de tone(buzzer, Waarde).
+ * 
+ */
+const int buzzer = 3; //buzzer to Nano Every pin D3
+ 
+ void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600); //Ter controle tijdens testen van de code
+  pinMode(buzzer, OUTPUT); // Set buzzer - pin 9 as an output
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  tone(buzzer, 50); // Send 50Hz sound signal... between 20-12000
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(1000);        // ...for 1sec
+  tone(buzzer, 100); // Send 100Hz sound signal... between 20-12000
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(1000);        // ...for 1sec
+  tone(buzzer, 12000); // Send 12KHz sound signal... between 20-12000
+  delay(1000);        // ...for 1 sec
+  noTone(buzzer);     // Stop sound...
+  delay(1000);        // ...for 1sec
+}
+
