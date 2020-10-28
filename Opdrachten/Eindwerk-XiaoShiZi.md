@@ -131,13 +131,13 @@ Buzzer test:
 
 Hierbij kan men door aanpassen van de waarde,de frequantie van de blokgolf, de toonhoogte aanpassen alzo de min max bepalen waarbij de toon deftig hoorbaar is.
 
-Link to ino file ![BuzerTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
+Link to ino file [BuzerTest.ino](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
 
 Ball Switch test:
 
 Test om de gevoeligheid en positie van het contact te bepalen. Opemrking gebruik een usb data kabel die wat bewegingsruimte op het breadbord toelaat.
 
-Link to ino file [BallSwitchTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
+Link to ino file [BallSwitchTest.ino](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
 
 Output van de seriële monitor:
 
