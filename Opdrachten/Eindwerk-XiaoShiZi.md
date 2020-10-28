@@ -83,6 +83,8 @@ Pinout van de Passive Buzzer (aflezen op de pcb zelf)
 
 KiCad Schema uitgetekend met aanmaak van de scherm schema symbolen alsook de switch en buzzer.
 
+![SchemaKiCad](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDigitaalSchema.png)
+
 [Schema KiCad] Toevoegen van een PNG... In KiCad de optie exporteren drawing to clipboard, binnen brengen in Gimp heeft een transparant lege zone...
 
 OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindleijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de pritn to pdf optie gebruiken.
@@ -123,45 +125,6 @@ Elk onderdeel appart getest om zeker te zijn dat deze werken en aan te sturen zi
 
 Buzzer test 
 
-/*
- * Arduino Nano Every O zandLopEr Digitaal 
- *         Eerste versie Oled, Ballswitch en Passive Buzzer.
- *         
- * By Xiao Shi Zi Yi 小獅子一
- * 
- * Geluid door Buzzer aangesloten op pin D3(pin6 van het board) 
- * 
- * Ball switch aangesloten op pin D2(pin5)
- * 
- * Library: Oled 6 pins 2 colours, u8g2 by Oliver (ipv u8glib)
- * Pins on the Nano Every
- * 
- * Library 
- * 
- * Test van de Buzzer met de hoorbare frequenties zonder veel ruis door aanpassing van de tone(buzzer, Waarde).
- * 
- */
-const int buzzer = 3; //buzzer to Nano Every pin D3
- 
- void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600); //Ter controle tijdens testen van de code
-  pinMode(buzzer, OUTPUT); // Set buzzer - pin 9 as an output
-}
+Link to inofile
 
-void loop() {
-  // put your main code here, to run repeatedly:
-  tone(buzzer, 50); // Send 50Hz sound signal... between 20-12000
-  delay(1000);        // ...for 1 sec
-  noTone(buzzer);     // Stop sound...
-  delay(1000);        // ...for 1sec
-  tone(buzzer, 100); // Send 100Hz sound signal... between 20-12000
-  delay(1000);        // ...for 1 sec
-  noTone(buzzer);     // Stop sound...
-  delay(1000);        // ...for 1sec
-  tone(buzzer, 12000); // Send 12KHz sound signal... between 20-12000
-  delay(1000);        // ...for 1 sec
-  noTone(buzzer);     // Stop sound...
-  delay(1000);        // ...for 1sec
-}
-
+![BuzerTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
