@@ -137,8 +137,41 @@ Ball Switch test:
 
 Test om de gevoeligheid en positie van het contact te bepalen. Opemrking gebruik een usb data kabel die wat bewegingsruimte op het breadbord toelaat.
 
+Link to ino file ![BallSwitchTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
 
+Output van de seriële monitor:
 
+12:18:01.867 -> Ballknop vrij
+
+12:18:01.867 -> Ballknop vrij
+
+12:18:01.914 -> Ballknop vrij
+
+12:18:01.914 -> Ballknop vrij
+
+12:18:01.914 -> Ballknop ingedrukt
+
+12:18:01.960 -> Ballknop ingedrukt
+
+12:18:01.960 -> Ballknop ingedrukt
+
+...
+
+12:18:03.744 -> Ballknop ingedrukt
+
+12:18:03.791 -> Ballknop ingedrukt
+
+12:18:03.791 -> Ballknop ingedrukt
+
+12:18:03.838 -> Ballknop ingedrukt
+
+12:18:03.838 -> Ballknop vrij
+
+12:18:03.884 -> Ballknop vrij
+
+12:18:03.884 -> Ballknop vrij
+
+Werking en uitlezing ok dus.
 
 Opstelling op het breadbord met de verschillende onderdelen.
 
