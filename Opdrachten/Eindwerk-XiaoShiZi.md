@@ -177,7 +177,19 @@ Testen van het OLED scherm met SPI aansturing.
 
 Hamvraag... welke library te gebruiken...
 
+Mijn voorkeur gaat uit naar de U8g2.lib omdat de Adafruit nog een extra deel van het geheugen inpikt indien men dit wil distribueren... 
 
+ Written by Limor Fried/Ladyada for Adafruit Industries,
+ 
+ with contributions from the open source community.
+ 
+ BSD license, check license.txt for more information
+ 
+ All text above, and the splash screen below must be
+ 
+ included in any redistribution.
+ 
+ 
 
 Opstelling op het breadbord met de verschillende onderdelen.
 
