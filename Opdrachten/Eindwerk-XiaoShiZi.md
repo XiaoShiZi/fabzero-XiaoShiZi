@@ -65,6 +65,10 @@ Vandaar het idee om een digitale versie van een timer te maken.
 
 Dit met gebruik van een OLED scherm (ooit besteld), een buzzer, een ballswitch sensor (afkomstig uit zo'n 37kit set) en een arduino nano every.
 
+Oeps... Bij het schrijven van de documentatie valt mijn oog op een belangrijk onderdeel...
+
+**BELANGRIJK!** Hoe aansluiten en welke voeding word het... 
+
 Behuizing vermoed ik om dit in een mintbox te plaatsen of nog een ontwerp uit te tekenen voor lasercutter of 3d print. 
 
 Uit een assist to fellow student geleerd dat het steeds noodzakelijk is om de pinout goed op te zoeken en niet zomaar overnemen wat op het scherm in sommige tutorials aan bod komt. 
@@ -123,8 +127,18 @@ Ball Switch / Nano Every = Signal/5 - VCC/16 - GND/4
 
 Elk onderdeel appart getest om zeker te zijn dat deze werken en aan te sturen zijn met de Nano Every
 
-Buzzer test 
+Buzzer test:
 
-Link to inofile
+Hierbij kan men door aanpassen van de waarde,de frequantie van de blokgolf, de toonhoogte aanpassen alzo de min max bepalen waarbij de toon deftig hoorbaar is.
 
-![BuzerTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
+Link to ino file ![BuzerTest](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
+
+Ball Switch test:
+
+Test om de gevoeligheid en positie van het contact te bepalen. Opemrking gebruik een usb data kabel die wat bewegingsruimte op het breadbord toelaat.
+
+
+
+
+Opstelling op het breadbord met de verschillende onderdelen.
+
