@@ -175,3 +175,4 @@ Werking en uitlezing ok dus.
 
 Opstelling op het breadbord met de verschillende onderdelen.
 
+Afbeelding breadbord setup ![BreadbordSetup](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDigitaalBreadbording.jpg)
