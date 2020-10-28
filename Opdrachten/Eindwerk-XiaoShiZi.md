@@ -77,7 +77,7 @@ Dus hierbij de pinouts van de onderdelen.
 
 Pinout schema van de Arduino Nano Every :
 
-https://content.arduino.cc/assets/Pinout-NANOevery_latest.png
+![PinOutNanoEvery](https://content.arduino.cc/assets/Pinout-NANOevery_latest.png)
 
 Pinout van het scherm (aflezen op de pcb zelf)
 
@@ -173,6 +173,14 @@ Output van de seriële monitor:
 
 Werking en uitlezing ok dus.
 
+Testen van het OLED scherm met SPI aansturing.
+
+Hamvraag... welke library te gebruiken...
+
+
+
 Opstelling op het breadbord met de verschillende onderdelen.
 
 Afbeelding breadbord setup ![BreadbordSetup](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDigitaalBreadbording.jpg)
+
+
