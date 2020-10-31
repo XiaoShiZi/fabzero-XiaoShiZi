@@ -199,8 +199,8 @@ Mijn voorkeur gaat uit naar de U8g2.lib omdat de Adafruit nog een extra deel van
  
  Uiteindelijk in de uitleg van de U8g2 lib op github de nodige info en tests gevonden om mijn eigen afbeelding te maken en te vertalen naar arduino code.
  
- ![GimpZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/GimpZanloper.jpg)
  ![GimpInstellingenZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/GimpZandloperInstellingen.jpg)
+ ![GimpZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/GimpZanloper.jpg)
  ![OledZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/SchermZandloper.jpg)
  
 
