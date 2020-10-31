@@ -81,7 +81,7 @@ Pinout schema van de Arduino Nano Every :
 
 Pinout van het scherm (aflezen op de pcb zelf)
 
-Pinout van de Ball switch (aflezen op de pcb zelf)
+Pinout van de Ball switch (aflezen op de pcb zelf), Bij testen word duidelijk dat er een gewone knop op komt voor de instellingen etc.
 
 Pinout van de Passive Buzzer (aflezen op de pcb zelf)
 
@@ -189,10 +189,38 @@ Mijn voorkeur gaat uit naar de U8g2.lib omdat de Adafruit nog een extra deel van
  
  included in any redistribution.
  
+ Knoop is doorgehakt. Het word de U8g2 Library voor het scherm.
+ 
+ Bij het testen van het scherm kwam volgend probleem aan het licht met de Chinese karakters.
+ 
+ In de Chinese1, Chinese2 of Chinese3 ontbreekt het karakter 獅 in 小獅子. Er is een manier om dit toe te voegen of een font te maken met enkel de nodige karakters.
+ 
+ Bij verder testen van het scherm kwam ik op de XBMP weergave via SPI voorbeelden. Wat dan een uitleg betrof van een verouderde versie van de lib.
+ 
+ Uiteindelijk in de uitleg van de U8g2 lib op github de nodige info en tests gevonden om mijn eigen afbeelding te maken en te vertalen naar arduino code.
+ 
+ ![GimpZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/GimpZanloper.jpg)
+ ![GimpInstellingenZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/GimpZandloperInstellingen.jpg)
+ ![OledZandloper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/SchermZandloper.jpg)
  
 
 Opstelling op het breadbord met de verschillende onderdelen.
 
 Afbeelding breadbord setup ![BreadbordSetup](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDigitaalBreadbording.jpg)
 
+Volgende stap
+
+Arduino rogrammatie van 
+
+Timer
+
+Knop (knop met verschillende functies  ./../-/~ )
+
+Buzzer (Welke tune spelen voor het alarm...)
+
+Scherm (Scherm opbouw, menus, zandkorrels vloei)
+
+... 
+
+Uittekenen Scherm en Behuizing.
 
