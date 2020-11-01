@@ -216,7 +216,7 @@ Timer
 
 Knop (knop met verschillende functies  ./../-/~ Blijken er 23 librarys in de library bibliotheek mogelijk te zijn als addon... Hoe kiezen in dit woud voor de perfecte houtsoort?)
 
-Buzzer (Welke tune spelen voor het alarm...)
+Buzzer (Welke tune spelen voor het alarm...) [Midi2Tone](https://sparks.gogo.co.nz/midi_tone.html)
 
 Scherm (Scherm opbouw, menus, zandkorrels vloei)
 
