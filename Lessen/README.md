@@ -176,8 +176,21 @@ Eerste resultaat vanuit InkStitch laat zien dat dit wel mogelijkheden heeft maar
 
 HEt ontwerp kan men vanuit InkScape met .emf bestand opslaan voor PE Design.
 
-Fotootje Patch XiaoShiZi toevoegen.
+[Fotootje Patch XiaoShiZi toevoegen](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/XiaoShiZiEmbroyderie.jpg)
 
+## Les 10 Arduino
+
+Aanvullen met les Arduino...
+
+## Les 11 Productpresentatie
+
+Product presentatie maken met Miro van begin documentatie over ontwerp naar eindproduct met de verpakking.
+
+Ook de verpaking is een vorm van productpresentatie, eigenlijk een heel belangrijke om op te vallen en de "nood" te creëren om uw product aan te schaffen.
+
+Techniek om oplichten van uw proto type te visualiseren. Toegepast op een letter in perspectief. Deze techniek kan men dan toepassen op een schets of prototype foto zadat deze tot bijna realistisch word.
+
+[Foto van Letter I met kleur accent](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/HighlightDarkenTechnique.jpg)
 
 
 
