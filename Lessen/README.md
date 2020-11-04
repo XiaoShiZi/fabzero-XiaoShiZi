@@ -176,11 +176,11 @@ Eerste resultaat vanuit InkStitch laat zien dat dit wel mogelijkheden heeft maar
 
 HEt ontwerp kan men vanuit InkScape met .emf bestand opslaan voor PE Design.
 
-[Fotootje Patch XiaoShiZi toevoegen](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/XiaoShiZiEmbroyderie.jpg)
+![Fotootje Patch XiaoShiZi toevoegen](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/XiaoShiZiEmbroyderie.jpg)
 
 ## Les 10 Arduino
 
-Aanvullen met les Arduino...
+Arduino basis programmering. plus uitleg om een skelet sketch aan te maken met de online blokken code hulp tool van Ingegno [Blocky4Arduino](https://blokkencode.ingegno.be/)
 
 ## Les 11 Productpresentatie
 
@@ -190,7 +190,7 @@ Ook de verpaking is een vorm van productpresentatie, eigenlijk een heel belangri
 
 Techniek om oplichten van uw proto type te visualiseren. Toegepast op een letter in perspectief. Deze techniek kan men dan toepassen op een schets of prototype foto zadat deze tot bijna realistisch word.
 
-[Foto van Letter I met kleur accent](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/HighlightDarkenTechnique.jpg)
+![Foto van Letter I met kleur accent](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Lessen/HighlightDarkenTechnique.jpg)
 
 
 
