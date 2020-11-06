@@ -224,3 +224,10 @@ Scherm (Scherm opbouw, menus, zandkorrels vloei)
 
 Uittekenen Scherm en Behuizing.
 
+3D Digital Resouces gebruikt om het 3d model te tekenen.
+
+[Arduino Nano Every](https://grabcad.com/library/arduino-nano-every-1)
+
+
+
+
