@@ -228,6 +228,7 @@ Uittekenen Scherm en Behuizing.
 
 [Arduino Nano Every](https://grabcad.com/library/arduino-nano-every-1)
 
+[OLED 1.54"](https://grabcad.com/library/oled-display-module-spi-interface-1-54-1)
 
 
 
