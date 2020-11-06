@@ -228,7 +228,8 @@ Uittekenen Scherm en Behuizing.
 
 [Arduino Nano Every](https://grabcad.com/library/arduino-nano-every-1)
 
-[OLED 1.54"](https://grabcad.com/library/oled-display-module-spi-interface-1-54-1)
+Afmetingen in de 3d file komen niet overeen met mijn model.[OLED 1.54"](https://grabcad.com/library/oled-display-module-spi-interface-1-54-1)
+Aanpassingen te doen zodat dit correct is.
 
 [F360ExampleTwistedSurfaceThickn](https://youtu.be/QIfarKvvT3w)
 
