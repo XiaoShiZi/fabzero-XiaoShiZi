@@ -233,5 +233,5 @@ Aanpassingen te doen zodat dit correct is.
 
 [F360ExampleTwistedSurfaceThickn](https://youtu.be/QIfarKvvT3w)
 
-![Sneak Preview](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandLoper%20v6.png)
+![Sneak Preview](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandLoper%20v7.png)
 
