@@ -91,7 +91,7 @@ KiCad Schema uitgetekend met aanmaak van de scherm schema symbolen alsook de swi
 
 [Schema KiCad] Toevoegen van een PNG... In KiCad de optie exporteren drawing to clipboard, binnen brengen in Gimp heeft een transparant lege zone...
 
-OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindleijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de pritn to pdf optie gebruiken.
+OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindleijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de print to pdf optie gebruiken.
 
 
 
