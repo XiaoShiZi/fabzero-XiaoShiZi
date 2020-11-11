@@ -238,3 +238,7 @@ Aanpassingen te doen zodat dit correct is.
 Opstelling gemaakt met de batterijen. De stroommeting uitgevoerd. Bereknd van de duur voor de baterijen op [battrijduurberekening](https://www.digikey.be/nl/resources/conversion-calculators/conversion-calculator-battery-life)
 Komen we op een 999 uur of 41 dagen non stop.Lijkt mij handig om niet wekelijks de baterijen te moeten wisselen ;-)
 
+Checking the note play for the buzzer.
+
+![noteflightCheck duraton](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/noteflight-ZandKnoper.png)
+
