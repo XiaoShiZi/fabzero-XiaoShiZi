@@ -242,3 +242,5 @@ Checking the note play for the buzzer.
 
 ![noteflightCheck duraton](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/noteflight-ZandKnoper.png)
 
+De Arduino programmatie toegevoegd onder de map [ZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/tree/master/Opdrachten/ZandKnoper)
+
