@@ -246,4 +246,6 @@ De Arduino programmatie toegevoegd onder de map [ZandKnoper](https://github.com/
 
 Na het design en de 3d print de praktijktest. Net gepast ;-)
 
+![Baterijpacken Schakelaar](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v21.png)
+
 ![TightFit](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/TightFit.jpg)
