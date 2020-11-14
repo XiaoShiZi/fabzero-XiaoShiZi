@@ -244,3 +244,6 @@ Checking the note play for the buzzer.
 
 De Arduino programmatie toegevoegd onder de map [ZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/tree/master/Opdrachten/ZandKnoper)
 
+Na het design en de 3d print de praktijktest. Net gepast ;-)
+
+![TightFit](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/TightFit.jpg)
