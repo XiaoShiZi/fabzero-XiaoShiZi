@@ -252,7 +252,7 @@ Na het design en de 3d print de praktijktest. Net gepast ;-)
 
 Verder gewerkt aan de 3d file waarbij alle componenten gepotietioneerd werden en de bedrading kan geplaatst worden.
 
-![ViewSoFarWIP](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v28.png)
+![ViewSoFarWIPV29](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v28.png)
 
 De Fusion file in zip formaat: [Zandknoper Fusion Zip File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
 [ Zandknoper Fusion Zip File vervolg](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
