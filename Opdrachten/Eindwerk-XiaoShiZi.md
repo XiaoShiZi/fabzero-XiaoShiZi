@@ -254,5 +254,5 @@ Verder gewerkt aan de 3d file waarbij alle componenten gepotietioneerd werden en
 
 ![ViewSoFarWIP](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v28.png)
 
-De Fusion file in zip formaat: [Zandknoper Fusion File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
-[Zandknoper Fusion File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
+De Fusion file in zip formaat: [Zandknoper Fusion Zip File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
+[ Zandknoper Fusion Zip File vervolg](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
