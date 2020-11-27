@@ -315,7 +315,7 @@ void CheckTilt(){
 //      u8g2(u8g2_R0);
       if (Screen==1){
         u8g2.setDisplayRotation(U8G2_R3);
-        u8g2.setFlipMode (0);
+        u8g2.setFlipMode(0);
       }
       else {
         u8g2.setDisplayRotation(U8G2_R3);
