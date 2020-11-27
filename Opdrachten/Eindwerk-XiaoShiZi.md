@@ -256,3 +256,17 @@ Verder gewerkt aan de 3d file waarbij alle componenten gepotietioneerd werden en
 
 De Fusion file in zip formaat: [Zandknoper Fusion Zip File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
 [ Zandknoper Fusion Zip File vervolg](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
+
+Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks erbij geplaatst. Dit ter voorkoming van het ontsnappen in een rookwolkje van de magie waarop electronische onderedelen werken. Een potje reserve rook is voorhanden. 
+
+
+De bedrading, solderen en monteren, op het scherm na volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
+
+Na instellen van de tientallen van de minuten en overschakelen dient men nu nog eens te duwen, dit kan aangepast wordne in de programmatie zodat na vastleggen van de Tientallen er automatisch naar de eenheden word gesprongen. 
+
+Na verlopen van de tijd dient de zandknoper ook opnieuw te starten na omdraaien van de zandknoper.
+
+Logo startscherm aanpassen.
+
+Visualisatie van het lopende zand toevoegen aan het aftel scherm.
+
