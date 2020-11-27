@@ -261,7 +261,7 @@ Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks
 
 ![SchemaKiCad](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper.svg)
 
-![BedradingFritzing](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper_bb.svg)
+![BedradingFritzing](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper_bb.png)
 
 De bedrading, solderen en monteren, op het scherm na volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
 
