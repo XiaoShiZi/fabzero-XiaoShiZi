@@ -270,3 +270,4 @@ Logo startscherm aanpassen.
 
 Visualisatie van het lopende zand toevoegen aan het aftel scherm.
 
+![BijnaAfZandKnoper](
