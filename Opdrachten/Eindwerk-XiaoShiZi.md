@@ -270,4 +270,4 @@ Logo startscherm aanpassen.
 
 Visualisatie van het lopende zand toevoegen aan het aftel scherm.
 
-![BijnaAfZandKnoper](
+![BijnaAfZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoperBijnaAf.jpg)
