@@ -11,12 +11,15 @@ void ScreenTime(){
     */
     
   }
-  else
+  else  {
 //  Serial.println((String)millis());
 //  Serial.println((String)TimerLooptNog+" TimerLooptNog");
-  unsigned long TimeMin=(TimerLooptNog/(60000))%60;
+  unsigned long TimeMin=(TimerLooptNog/60000);
+  //unsigned long TimeMin=TimeMin%60;
+  Serial.println((String)TimerLooptNog);
+  Serial.println((String)"TimeMin = "+TimeMin);
   unsigned long TimeSec=(TimerLooptNog/(1000))%60;
-//  Serial.println((String)TimeMin+":"+TimeSec);
+  Serial.println((String)"TimerLooptNog "+TimerLooptNog+" TimeMin "+TimeMin+":"+TimeSec);
   if (TimeMin<=9)
     LeadTimeMin="0";
   else 
@@ -25,6 +28,8 @@ void ScreenTime(){
     LeadTimeSec="0";
   else 
   LeadTimeSec="";
+  Serial.println((String)TimeMin);
+  Serial.println((String)LeadTimeMin+TimeMin+":"+LeadTimeSec+TimeSec);
   u8g2.setFontDirection(0);
   u8g2.clearBuffer();
   u8g2.setFontMode(0);
@@ -54,4 +59,5 @@ void ScreenTime(){
   u8g2.setCursor(1, 105);
   u8g2.print("小獅子");
   u8g2.sendBuffer();
+  }
 }
