@@ -284,6 +284,8 @@ Gelukkig had ik er nog 1tje op reserve waardoor het eind-event van start kon gaa
 
 ![EindGoedAlGoed](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/DiplomaZandknoper.jpg)
 
+![EindGoedAlGoed]({{site.baseurl}}/../../assets/ZandKnoper/DiplomaZandknoper.jpg)
+
 Diploma behaald. YES we kunnen meer dan we denken is een realiteit geworden ;-)
 
 Wat volgt er nu?...
