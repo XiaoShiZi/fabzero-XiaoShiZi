@@ -210,9 +210,9 @@ Afbeelding breadbord setup ![BreadbordSetup](https://github.com/XiaoShiZi/fabzer
 
 Volgende stap
 
-Arduino rogrammatie van 
+Arduino programmatie van 
 
-Timer
+Timer 
 
 Knop (knop met verschillende functies  ./../-/~ Blijken er 23 librarys in de library bibliotheek mogelijk te zijn als addon... Hoe kiezen in dit woud voor de perfecte houtsoort?)
 
@@ -265,7 +265,7 @@ Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks
 
 De bedrading, solderen en monteren, op het scherm na volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
 
-Na instellen van de tientallen van de minuten en overschakelen dient men nu nog eens te duwen, dit kan aangepast wordne in de programmatie zodat na vastleggen van de Tientallen er automatisch naar de eenheden word gesprongen. 
+Na instellen van de tientallen van de minuten en overschakelen dient men nu nog eens te duwen, dit kan aangepast worden in de programmatie zodat na vastleggen van de Tientallen er automatisch naar de eenheden word gesprongen. 
 
 Na verlopen van de tijd dient de zandknoper ook opnieuw te starten na omdraaien van de zandknoper.
 
@@ -274,3 +274,29 @@ Logo startscherm aanpassen.
 Visualisatie van het lopende zand toevoegen aan het aftel scherm.
 
 ![BijnaAfZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoperBijnaAf.jpg)
+
+Zaterdag 28/11/2020 Voornmiddag. Laatste hand gelegd aan de ZandKnoper voor de diploma uitreiking.
+
+Hiervoor werd het scherm nog voorzien van een afdek- en dikteplaat alsook de bedrading bevestigd net voor het eindevent.
+
+28/11/2020 12:26 Bij het plaatsen van de afschermplaat brak mijn schermpje...
+Gelukkig had ik er nog 1tje op reserve waardoor het eind-event van start kon gaan met de aftelling door de ZandKnoper ;-)
+
+![EindGoedAlGoed](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/DiplomaZandknoper.jpg)
+
+Diploma behaald. YES we kunnen meer dan we denken is een realiteit geworden ;-)
+
+Wat volgt er nu?...
+
+Verdere afwerking van de documentatie om te voldoen aan de verwachtingen.
+
+Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Bedoeling om random de verschillende deuntjes te gebruiken.
+
+Startscherm voorzien van de ZandKnoper.
+
+Aftelscherm voorzien van de geanimeerde ZandKnoper.
+
+Wat er na de uitreiking reeds verwezenlijkt werd: 
+
+Aanpassing in de code zodat de minuten correct worden weergegeven. :-/ Kleine bug in een else definiering { zijn essentieel ;-} 
+
