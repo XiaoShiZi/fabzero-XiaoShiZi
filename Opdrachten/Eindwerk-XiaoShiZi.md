@@ -282,7 +282,7 @@ Hiervoor werd het scherm nog voorzien van een afdek- en dikteplaat alsook de bed
 28/11/2020 12:26 Bij het plaatsen van de afschermplaat brak mijn schermpje...
 Gelukkig had ik er nog 1tje op reserve waardoor het eind-event van start kon gaan met de aftelling door de ZandKnoper ;-)
 
-![EindGoedAlGoed](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/DiplomaZandknoper.jpg)
+<!--![EindGoedAlGoed](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/DiplomaZandknoper.jpg) -->
 
 ![EindGoedAlGoed]({{site.baseurl}}/../../assets/ZandKnoper/DiplomaZandknoper.jpg)
 
