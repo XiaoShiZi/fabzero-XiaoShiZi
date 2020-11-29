@@ -292,7 +292,7 @@ Verdere afwerking van de documentatie om te voldoen aan de verwachtingen.
 
 Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Bedoeling om random de verschillende deuntjes te gebruiken.
 
-Startscherm voorzien van de ZandKnoper.
+Startscherm aanpassen met de ZandKnoper.
 
 Aftelscherm voorzien van de geanimeerde ZandKnoper.
 
