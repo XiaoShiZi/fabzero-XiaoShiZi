@@ -135,7 +135,7 @@ Link to ino file [BuzerTest.ino](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/
 
 Ball Switch test:
 
-Test om de gevoeligheid en positie van het contact te bepalen. Opemrking gebruik een usb data kabel die wat bewegingsruimte op het breadbord toelaat.
+Test om de gevoeligheid en positie van het contact te bepalen. Opmerking gebruik een lange usb data kabel (jammer geen aanduiding in de normering van USB om dit te vermelden op de USB-kabels) die wat bewegingsruimte met het breadbord toelaat.
 
 Link to ino file [BallSwitchTest.ino](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBallSwitch.ino)
 
@@ -191,9 +191,9 @@ Mijn voorkeur gaat uit naar de U8g2.lib omdat de Adafruit nog een extra deel van
  
  Knoop is doorgehakt. Het word de U8g2 Library voor het scherm.
  
- Bij het testen van het scherm kwam volgend probleem aan het licht met de Chinese karakters.
+ Bij het testen van het scherm met de u8g2 library kwam volgend probleem aan het licht met de Chinese karakters.
  
- In de Chinese1, Chinese2 of Chinese3 ontbreekt het karakter 獅 in 小獅子. Er is een manier om dit toe te voegen of een font te maken met enkel de nodige karakters.
+ In de Chinese1, Chinese2 of Chinese3 ontbreekt het karakter 獅 (chr in 小獅子. Er is een manier om dit toe te voegen of een font te maken met enkel de nodige karakters.
  
  Bij verder testen van het scherm kwam ik op de XBMP weergave via SPI voorbeelden. Wat dan een uitleg betrof van een verouderde versie van de lib.
  
@@ -224,23 +224,23 @@ Scherm (Scherm opbouw, menus, zandkorrels vloei)
 
 Uittekenen Scherm en Behuizing.
 
-3D Digital Resouces gebruikt om het 3d model te tekenen.
+3D Digital Resources gebruikt om het 3d model te tekenen.
 
 [Arduino Nano Every](https://grabcad.com/library/arduino-nano-every-1)
 
 Afmetingen in de 3d file komen niet overeen met mijn model.[OLED 1.54"](https://grabcad.com/library/oled-display-module-spi-interface-1-54-1)
-Aanpassingen te doen zodat dit correct is.
+Aanpassingen te doen zodat dit correct is. (Scherm is 0.96" versie)
 
 [F360ExampleTwistedSurfaceThickn](https://youtu.be/QIfarKvvT3w)
 
 ![Sneak Preview](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandLoper%20v7.png)
 
-Opstelling gemaakt met de batterijen. De stroommeting uitgevoerd. Bereknd van de duur voor de baterijen op [battrijduurberekening](https://www.digikey.be/nl/resources/conversion-calculators/conversion-calculator-battery-life)
+Opstelling gemaakt met de batterijen. De stroommeting uitgevoerd. Berekend van de duur voor de baterijen op [battrijduurberekening](https://www.digikey.be/nl/resources/conversion-calculators/conversion-calculator-battery-life)
 Komen we op een 999 uur of 41 dagen non stop.Lijkt mij handig om niet wekelijks de baterijen te moeten wisselen ;-)
 
 Checking the note play for the buzzer.
 
-![noteflightCheck duraton](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/noteflight-ZandKnoper.png)
+![noteflightCheck duration](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/noteflight-ZandKnoper.png)
 
 De Arduino programmatie toegevoegd onder de map [ZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/tree/master/Opdrachten/ZandKnoper)
 
@@ -250,7 +250,7 @@ Na het design en de 3d print de praktijktest. Net gepast ;-)
 
 ![TightFit](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/TightFit.jpg)
 
-Verder gewerkt aan de 3d file waarbij alle componenten gepotietioneerd werden en de bedrading kan geplaatst worden.
+Verder gewerkt aan de 3d file waarbij alle componenten gepositioneerd werden en de bedrading kan geplaatst worden.
 
 ![ViewSoFarWIPV29](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v28.png)
 
@@ -263,7 +263,7 @@ Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks
 
 ![BedradingFritzing](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper_bb.png)
 
-De bedrading, solderen en monteren, op het scherm na volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
+De bedrading, solderen en monteren, op het scherm na, volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
 
 Na instellen van de tientallen van de minuten en overschakelen dient men nu nog eens te duwen, dit kan aangepast worden in de programmatie zodat na vastleggen van de Tientallen er automatisch naar de eenheden word gesprongen. 
 
@@ -275,9 +275,9 @@ Visualisatie van het lopende zand toevoegen aan het aftel scherm.
 
 ![BijnaAfZandKnoper](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoperBijnaAf.jpg)
 
-Zaterdag 28/11/2020 Voornmiddag. Laatste hand gelegd aan de ZandKnoper voor de diploma uitreiking.
+Zaterdag 28/11/2020 Voormiddag. Laatste hand gelegd aan de ZandKnoper voor de diploma uitreiking.
 
-Hiervoor werd het scherm nog voorzien van een afdek- en dikteplaat alsook de bedrading bevestigd net voor het eindevent.
+Hiervoor werd het scherm nog voorzien van een 3d geprinte afdek- en dikteplaat alsook de bedrading bevestigd net voor het eindevent.
 
 28/11/2020 12:26 Bij het plaatsen van de afschermplaat brak mijn schermpje...
 Gelukkig had ik er nog 1tje op reserve waardoor het eind-event van start kon gaan met de aftelling door de ZandKnoper ;-)
@@ -292,7 +292,7 @@ Wat volgt er nu?...
 
 Verdere afwerking van de documentatie om te voldoen aan de verwachtingen.
 
-Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Bedoeling om random de verschillende deuntjes te gebruiken.
+Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Deze tool zal ddels in python geschreven worden gebaseerd op de opensource [lilypond.org](http://lilypond.org/) Bedoeling om random de verschillende deuntjes te gebruiken.
 
 Startscherm aanpassen met de ZandKnoper.
 
