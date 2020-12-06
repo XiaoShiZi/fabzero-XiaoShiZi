@@ -304,5 +304,7 @@ Wat er na de uitreiking reeds verwezenlijkt werd:
 
 Aanpassing in de code zodat de minuten correct worden weergegeven. :-/ Kleine bug in een else definiering { zijn essentieel ;-} 
 
-![XiaoShiZi小獅子]({{site.baseurl}}/../../FabZero.gif)
+![XiaoShiZi小獅子]({{site.baseurl}}/../../assets/FabZero.gif)
 [Gif](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/FabZero.gif)
+
+https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/FabZero.gif
