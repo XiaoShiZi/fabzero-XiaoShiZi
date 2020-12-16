@@ -320,3 +320,6 @@ Arduino Files updated to latest version.
 
 - ZandKnoper herstart nu na het verlopen van de tijd met aftellen mits omdraaien ;-) .
 
+Begin uitleg voor aanmaken van de beperkte uitbreiding van de textfont met de 4 chinese characters 
+
+[AddChineseTextToFont](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ChineseTextFont.md)
