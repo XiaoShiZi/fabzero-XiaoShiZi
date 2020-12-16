@@ -308,3 +308,15 @@ Aanpassing in de code zodat de minuten correct worden weergegeven. :-/ Kleine bu
 [Gif](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/FabZero.gif)
 
 https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/FabZero.gif
+
+Update 20201216
+
+Arduino Files updated to latest version. 
+- Dit omvat het juiste gebruik van een kleine Font in U8G2 met de 4 Chinese karakters om mijn naam correct en volledig op het scherm te plaatsen (uitleg hiervoor volgt),
+
+- juiste aanduiding van de minuten:seconden bij aftellen,
+
+- aanpassing van het instellen van de tijd met verspringen bij beeindigen instellen tientallen door lang indrukken van de zandknoperschakelaar naar de eenheden,
+
+- ZandKnoper herstart nu na het verlopen van de tijd met aftellen mits omdraaien ;-) .
+
