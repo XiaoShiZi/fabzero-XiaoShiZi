@@ -1,6 +1,6 @@
 void ScreenTime(){
   TimerLooptNog=TimerEnd-millis();
-  if (TimerLooptNog<=1000ul){
+  if (TimerLooptNog<=800ul){
     Serial.println("Timesup");
     PlayTune();
 //    PlayTune();
@@ -57,7 +57,7 @@ void ScreenTime(){
   u8g2.setCursor(34, 81);
   u8g2.print("-");
   u8g2.setCursor(1, 105);
-  u8g2.print("小獅子");
+  u8g2.print("小獅子一");
   u8g2.sendBuffer();
   }
 }

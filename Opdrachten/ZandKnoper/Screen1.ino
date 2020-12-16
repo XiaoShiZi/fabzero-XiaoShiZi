@@ -44,14 +44,14 @@ void Screen1(){
   u8g2.setCursor(36, 63);
   u8g2.print(".");
   u8g2.setCursor(1, 80);
-  u8g2.print("Select-");
-  u8g2.setCursor(49, 81);
+  u8g2.print("Select -");
+  u8g2.setCursor(39, 81);
   u8g2.print("-");
-  u8g2.setCursor(53, 80);
+  u8g2.setCursor(43, 80);
   u8g2.print("-");
-  u8g2.setCursor(53, 81);
+  u8g2.setCursor(43, 81);
   u8g2.print("-");
   u8g2.setCursor(1, 105);
-  u8g2.print("小獅子");
+  u8g2.print("小獅子一");
   u8g2.sendBuffer();
 }
