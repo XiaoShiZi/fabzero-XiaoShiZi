@@ -41,7 +41,7 @@ Thought the help on github contains the necesary info on how to achieve this tas
 
 PFFF.... amai... de master.zip geinstalleerd de u8g2 verwijderd voorbeeld gedaan fout in verwijzing in de .c file. .c wil arduino niet openen... 
 
-We gaan voor de bdfconv tool gaan. Op windows of waarschijnlijker op een Rpi zodat die omzettign correct gebeurd met de aangeleverde tools. 
+We gaan voor de bdfconv tool gaan. Op windows of waarschijnlijker op een Rpi zodat die omzetting correct gebeurd met de aangeleverde tools. 
 
 Nu hebben we een file kunnen maken met de characters 小獅子 erin
 Staat onder https://raw.githubusercontent.com/larryli/u8g2_wqy/master/bdf/wenquanyi_13px.bdf
