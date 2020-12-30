@@ -33,7 +33,9 @@ https://www.silabs.com/community/wireless/proprietary/knowledge-base.entry.html/
 
 
 30/11/2020 
+
 Checking on how to make a font with only 4 characters in it with u8g2 library
+
 Need more explanation on how to achieve this task.
 
 Thought the help on github contains the necesary info on how to achieve this task.
@@ -44,6 +46,7 @@ PFFF.... amai... de master.zip geinstalleerd de u8g2 verwijderd voorbeeld gedaan
 We gaan voor de bdfconv tool gaan. Op windows of waarschijnlijker op een Rpi zodat die omzetting correct gebeurd met de aangeleverde tools. 
 
 Nu hebben we een file kunnen maken met de characters 小獅子 erin
+
 Staat onder https://raw.githubusercontent.com/larryli/u8g2_wqy/master/bdf/wenquanyi_13px.bdf
 
 
