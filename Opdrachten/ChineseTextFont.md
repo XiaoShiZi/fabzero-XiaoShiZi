@@ -288,8 +288,8 @@ $5B50,
 $5C0F,
 $7345,
 
+cmd
 
-pje dic
 bdfconv -f 1 -m "32-128,4E00,5b50,5c0f,7345" -n myfont -o myfont.c wenquanyi_13px.bdf
 
 
@@ -369,7 +369,7 @@ echo '#include "myfont.h"' > u8g2_font_wqy12_t_myfont.c
 
 2/12/2020
 
-Verder uitzoeken waarom het nog niet vertoont word op het scherm.
+Verder uitzoeken waarom het nog niet verschijnt op het scherm.
 Eindelijk de oorzaak gevonden.
 De files staan onder het project.
 De inhoud is alsvolgt:
@@ -485,10 +485,12 @@ ZandKnoper.ino
 …
 ...
 void setup(){
-    u8g2.begin();
+  u8g2.begin();
   u8g2.enableUTF8Print();    // enable UTF8 support for the Arduino print() function
   u8g2.setFont(u8g2_font_wqy12_t_myfont);//myfont);
   u8g2.setDisplayRotation(U8G2_R1);//u8g2.setFlipMode (1);
 …
+  u8g2.setCursor(1, 105);
+  u8g2.print("小獅子一");
 …
 //eind ZandKnoper.ino
