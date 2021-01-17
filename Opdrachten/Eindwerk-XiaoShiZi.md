@@ -91,7 +91,7 @@ KiCad Schema uitgetekend met aanmaak van de scherm schema symbolen alsook de swi
 
 [Schema KiCad] Toevoegen van een PNG... In KiCad de optie exporteren drawing to clipboard, binnen brengen in Gimp heeft een transparant lege zone...
 
-OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindleijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de print to pdf optie gebruiken.
+OpenOffice tekst, aanpassen richting van het blad, ctrl+v paste van de drawing of clipboard. Ctrl+C en dan in Gimp Ctrl+V en eindelijk kunnen we dan de afbeelding opslaan en export als png. Pfff. Wat een gedoe om een goede documentatie te maken ;-) andere optie is print en dan de print to pdf optie gebruiken.
 
 
 
@@ -105,7 +105,7 @@ Het OLED scherm heeft 6 aansluitpinnen genoemd als GND VCC SCL SDA RST D/C.
 
 Na lang zoeken dan toch op de juiste aansturing van deze 6 connectoren gekomen. 
 
-Scherm kunnen identificieren als een 0.96" OLED 128x64 SPI blue scherm.
+Scherm kunnen identificeren als een 0.96" OLED 128x64 SPI blue scherm.
 
 Op naar de connecties en de library voor de arduino.
 
@@ -125,11 +125,11 @@ Connecties Ball Switch:
 
 Ball Switch / Nano Every = Signal/5 - VCC/16 - GND/4
 
-Elk onderdeel appart getest om zeker te zijn dat deze werken en aan te sturen zijn met de Nano Every
+Elk onderdeel apart getest om zeker te zijn dat deze werken en aan te sturen zijn met de Nano Every
 
 Buzzer test:
 
-Hierbij kan men door aanpassen van de waarde,de frequantie van de blokgolf, de toonhoogte aanpassen alzo de min max bepalen waarbij de toon deftig hoorbaar is.
+Hierbij kan men door aanpassen van de waarde,de frequentie van de blokgolf, de toonhoogte aanpassen alzo de min max bepalen waarbij de toon deftig hoorbaar is.
 
 Link to ino file [BuzerTest.ino](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/OzandLopErDdigitaalBuzzer.ino)
 
@@ -237,8 +237,8 @@ Aanpassingen te doen zodat dit correct is. (Scherm is 0.96" versie)
 
 ![Sneak Preview](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandLoper%20v7.png)
 
-Opstelling gemaakt met de batterijen. De stroommeting uitgevoerd. Berekend van de duur voor de baterijen op [battrijduurberekening](https://www.digikey.be/nl/resources/conversion-calculators/conversion-calculator-battery-life)
-Komen we op een 999 uur of 41 dagen non stop.Lijkt mij handig om niet wekelijks de baterijen te moeten wisselen ;-)
+Opstelling gemaakt met de batterijen. De stroommeting uitgevoerd. Berekend van de duur voor de batterijen op [battrijduurberekening](https://www.digikey.be/nl/resources/conversion-calculators/conversion-calculator-battery-life)
+Komen we op een 999 uur of 41 dagen non stop. Lijkt mij handig om niet wekelijks de batterijen te moeten wisselen ;-)
 
 Checking the note play for the buzzer.
 
@@ -248,7 +248,7 @@ De Arduino programmatie toegevoegd onder de map [ZandKnoper](https://github.com/
 
 Na het design en de 3d print de praktijktest. Net gepast ;-)
 
-![Baterijpacken Schakelaar](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v21.png)
+![Batterijpacken Schakelaar](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v21.png)
 
 ![TightFit](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/TightFit.jpg)
 
@@ -259,13 +259,13 @@ Verder gewerkt aan de 3d file waarbij alle componenten gepositioneerd werden en 
 De Fusion file in zip formaat: [Zandknoper Fusion Zip File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
 [ Zandknoper Fusion Zip File vervolg](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
 
-Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks erbij geplaatst. Dit ter voorkoming van het ontsnappen in een rookwolkje van de magie waarop electronische onderdelen werken. Een potje reserve rook is voorhanden. 
+Nog een diode of 2 ter bescherming tegen foutieve polariteit van de batterijpacks erbij geplaatst. Dit ter voorkoming van het ontsnappen in een rookwolkje van de magie waarop electronische onderdelen werken. Een potje reserve rook is voorhanden. 
 
 ![SchemaKiCad](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper.svg)
 
 ![BedradingFritzing](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper_bb.png)
 
-De bedrading, solderen en monteren, op het scherm na, volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het porgramma met alle onderdelen op hun vaste potitie.
+De bedrading, solderen en monteren, op het scherm na, volledig kunnen afwerken. Nu kan er nog verder ontwikkeld worden aan het programma met alle onderdelen op hun vaste positie.
 
 Na instellen van de tientallen van de minuten en overschakelen dient men nu nog eens te duwen, dit kan aangepast worden in de programmatie zodat na vastleggen van de Tientallen er automatisch naar de eenheden word gesprongen. 
 
@@ -294,7 +294,7 @@ Wat volgt er nu?...
 
 Verdere afwerking van de documentatie om te voldoen aan de verwachtingen.
 
-Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Deze tool zal ddels in python geschreven worden gebaseerd op de opensource [lilypond.org](http://lilypond.org/) Bedoeling om random de verschillende deuntjes te gebruiken.
+Aanmaken programma om het deuntje te kunnen wijzigen. Hiervoor zal een tool ontwikkeld worden met een notenbalk-weergave en omzetting naar tone en duration array die dan eenvoudig in het programma kan geplaatst worden. Deze tool zal deels in python geschreven worden gebaseerd op de opensource [lilypond.org](http://lilypond.org/) Bedoeling om random de verschillende deuntjes te gebruiken.
 
 Startscherm aanpassen met de ZandKnoper.
 
@@ -302,7 +302,7 @@ Aftelscherm voorzien van de geanimeerde ZandKnoper.
 
 Wat er na de uitreiking reeds verwezenlijkt werd: 
 
-Aanpassing in de code zodat de minuten correct worden weergegeven. :-/ Kleine bug in een else definiering { zijn essentieel ;-} 
+Aanpassing in de code zodat de minuten correct worden weergegeven. :-/ Kleine bug in een else definiëring { zijn essentieel ;-} 
 
 ![XiaoShiZi小獅子]({{site.baseurl}}/../../assets/FabZero.gif)
 [Gif](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/assets/FabZero.gif)
@@ -316,10 +316,10 @@ Arduino Files updated to latest version.
 
 - juiste aanduiding van de minuten:seconden bij aftellen,
 
-- aanpassing van het instellen van de tijd met verspringen bij beeindigen instellen tientallen door lang indrukken van de zandknoperschakelaar naar de eenheden,
+- aanpassing van het instellen van de tijd met verspringen bij beëindigen instellen tientallen door lang indrukken van de zandknoperschakelaar naar de eenheden,
 
 - ZandKnoper herstart nu na het verlopen van de tijd met aftellen mits omdraaien ;-) .
 
-Begin uitleg voor aanmaken van de beperkte uitbreiding van de textfont met de 4 chinese characters 
+Begin uitleg voor aanmaken van de beperkte uitbreiding van de textfont met de 4 Chinese characters 
 
 [AddChineseTextToFont](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ChineseTextFont.md)
