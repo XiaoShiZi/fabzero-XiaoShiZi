@@ -259,7 +259,7 @@ Verder gewerkt aan de 3d file waarbij alle componenten gepositioneerd werden en 
 De Fusion file in zip formaat: [Zandknoper Fusion Zip File](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.zip) 
 [ Zandknoper Fusion Zip File vervolg](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper%20v29.z01)
 
-Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks erbij geplaatst. Dit ter voorkoming van het ontsnappen in een rookwolkje van de magie waarop electronische onderedelen werken. Een potje reserve rook is voorhanden. 
+Nog een diode of 2 ter bescherming tegen foutieve polariteit van de baterijpacks erbij geplaatst. Dit ter voorkoming van het ontsnappen in een rookwolkje van de magie waarop electronische onderdelen werken. Een potje reserve rook is voorhanden. 
 
 ![SchemaKiCad](https://github.com/XiaoShiZi/fabzero-XiaoShiZi/blob/master/Opdrachten/ZandKnoper.svg)
 
